@@ -2,6 +2,7 @@
 name: M1 Mac Build
 
 on:
+  workflow_dispatch:
   push:
   pull_request:
 
